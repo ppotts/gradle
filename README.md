@@ -1,2 +1,2 @@
-# gradle-practice
+# gradle
 gradle practice
