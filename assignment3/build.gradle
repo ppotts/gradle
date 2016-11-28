@@ -31,8 +31,11 @@ dependencies {
 }
 */
 
+defaultTasks 'body_massage', 'body_massage_go'
+
 task body_massage << {
 	println 'Who wants a body massage?'
+	body_massage_go
 }
 
 task body_massage_go {
